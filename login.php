@@ -22,7 +22,7 @@ if(isset($_POST['Login'])){
     }
         else {
             echo'<script>
-            alert("Login Gagal");
+            alert("Login Gagal Seperti Hidup Anda");
             </script>';
         }
     }
